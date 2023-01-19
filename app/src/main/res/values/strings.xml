@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Deck of Cards</string>
+    <string name="draw_cards">Draw Cards</string>
+</resources>
